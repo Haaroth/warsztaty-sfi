@@ -1,7 +1,7 @@
 # warsztaty-sfi
 
 ##CookBook.zip
-Dla osób, które maj¹ ju¿ zainstalowany i przygotowany serwer http jest przygotowany czysty projekt, od którego bêdziemy zaczynaæ pracê. Do³¹czone do niego s¹ biblioteki AngularJS i Bootstrap CookBook.js bêdziemy uzupe³niaæ w trakcie trwania warsztatów.
+Dla osÃ³b, ktÃ³re majÄ… juÅ¼ zainstalowany i przygotowany serwer http jest przygotowany czysty projekt, od ktÃ³rego bÄ™dziemy zaczynaÄ‡ pracÄ™. DoÅ‚Ä…czone do niego sÄ… biblioteki AngularJS i Bootstrap. CookBook.js bÄ™dziemy uzupeÅ‚niaÄ‡ w trakcie trwania warsztatÃ³w.
 
 ##Httpd+CookBook.zip
-Dla osób, którym nie uda³o siê uruchomiæ jeszcze serwera lub nie zd¹¿y³y tego zrobiæ przeznaczona jest ta paczka. Nale¿y j¹ rozpakowaæ w folderze "C:\httpd". Je¿eli ktoœ bêdzie chcia³ to zrobiæ w innym folderze nale¿y w konfiguracji serwera zmieniæ œcie¿kê ServerRoot w konfiguracji serwera. Po odpaleniu serwera aplikacja bêdzie dostêpna pod adresem http://localhost:8080
+Dla osÃ³b, ktÃ³rym nie udaÅ‚o siÄ™ uruchomiÄ‡ jeszcze serwera lub nie zdÄ…Å¼yÅ‚y tego zrobiÄ‡ przeznaczona jest ta paczka. NaleÅ¼y jÄ… rozpakowaÄ‡ w folderze "C:\httpd". JeÅ¼eli ktoÅ›Âœ bÄ™dzie chciaÅ‚ to zrobiÄ‡ w innym folderze naleÅ¼y w konfiguracji serwera zmieniÄ‡ ÂœÅ›cieÅ¼kÄ™ SRVROOT w conf\httpd.conf. Po odpaleniu serwera (bin\httpd.exe) aplikacja bÄ™dzie dostÄ™pna pod adresem http://localhost:8080
